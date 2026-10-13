@@ -14,6 +14,7 @@ https://github.com/TeamGadget-JP/UNIVERSAL_REAL-TIME_SYNC_SYSTEM
 GHEB애드온만 바꾼 애드온으로 이용하면 됩니다.
 
 
+<img width="291" height="540" alt="스크린샷 2026-10-13 202859" src="https://github.com/user-attachments/assets/04cdb39c-ff5b-4a90-a50f-5184199f4a85" />
 
 
 
