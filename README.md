@@ -9,6 +9,11 @@ TeamGadget-JP 감사합니다
 <시연영상>
 https://youtu.be/SZ_MpMnoEFE
 
+<사용방법>
+https://github.com/TeamGadget-JP/UNIVERSAL_REAL-TIME_SYNC_SYSTEM
+GHEB애드온만 바꾼 애드온으로 이용하면 됩니다.
+
+
 
 
 
