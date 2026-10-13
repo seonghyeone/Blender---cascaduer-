@@ -17,6 +17,25 @@ GHEB애드온만 바꾼 애드온으로 이용하면 됩니다.
 
 
 
+JP
+blenderとcascaduerのライブ連携のための記事
+
+TeamGadget-JP様のTeamGadget Universal Real-Time Sync SystemのGHEBをforkし、arpで使用できるようにいたしました。
+TeamGadget-JP ありがとうございます
+
+# 現在のarpでリギングする際は、骨構造をunreal 5とspineをstraightモードに切り替えて使用しなければなりません。 
+
+<デモ動画>
+https://youtu.be/SZ_MpMnoEFE
+
+<使用方法>
+https://github.com/TeamGadget-JP/UNIVERSAL_REAL-TIME_SYNC_SYSTEM
+GHEBアドオンだけを差し替えたアドオンとしてご利用いただけます。
+
+
+
+
+
 
 
 
