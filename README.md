@@ -1,4 +1,4 @@
-# Blender---cascaduer-
+# Blender cascaduer live link for ARP(Auto Rig Pro)
 blender와 cascaduer 라이브 연동을 위한 글
 
 TeamGadget-JP님의 TeamGadget Universal Real-Time Sync System의 GHEB를 fork해서 arp에 사용가능하게 만들었습니다.
