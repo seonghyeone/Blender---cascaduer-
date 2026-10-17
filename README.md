@@ -34,6 +34,8 @@ GHEB 블렌더 애드온만 이 애드온으로 바꿔 이용하면 됩니다.
 prop은 블렌더에서 본, 메쉬 리그한후 본을 넘기면 같이 넘겨지고
 카메라는 캐스캐이더에서 블렌더로 실시간 연동됩니다.
 
+<img width="287" height="1053" alt="스크린샷 2026-10-17 133445" src="https://github.com/user-attachments/assets/bcb21860-c2e1-49ea-969c-3ccc4b9c131d" />
+<img width="295" height="1063" alt="스크린샷 2026-10-17 133430" src="https://github.com/user-attachments/assets/9269026a-bac3-4039-a44f-7f8f79b0ba3c" />
 
 
 JP
