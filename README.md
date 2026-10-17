@@ -53,6 +53,9 @@ https://youtu.be/SZ_MpMnoEFE
 https://github.com/TeamGadget-JP/UNIVERSAL_REAL-TIME_SYNC_SYSTEM
 GHEBアドオンだけを差し替えたアドオンとしてご利用いただけます。
 
+## 감사합니다 
+https://github.com/TeamGadget-JP/UNIVERSAL_REAL-TIME_SYNC_SYSTEM
+
 
 
 
